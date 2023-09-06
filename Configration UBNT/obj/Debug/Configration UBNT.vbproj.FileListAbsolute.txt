@@ -1,0 +1,22 @@
+c:\users\muq\onedrive\documents\visual studio 2013\Projects\Configration UBNT\Configration UBNT\bin\Debug\Configration UBNT.exe.config
+c:\users\muq\onedrive\documents\visual studio 2013\Projects\Configration UBNT\Configration UBNT\bin\Debug\Configration UBNT.exe
+c:\users\muq\onedrive\documents\visual studio 2013\Projects\Configration UBNT\Configration UBNT\bin\Debug\Configration UBNT.pdb
+c:\users\muq\onedrive\documents\visual studio 2013\Projects\Configration UBNT\Configration UBNT\bin\Debug\Configration UBNT.xml
+c:\users\muq\onedrive\documents\visual studio 2013\Projects\Configration UBNT\Configration UBNT\obj\Debug\Configration_UBNT.Main.resources
+c:\users\muq\onedrive\documents\visual studio 2013\Projects\Configration UBNT\Configration UBNT\obj\Debug\Configration_UBNT.Resources.resources
+c:\users\muq\onedrive\documents\visual studio 2013\Projects\Configration UBNT\Configration UBNT\obj\Debug\Configration UBNT.vbproj.GenerateResource.Cache
+c:\users\muq\onedrive\documents\visual studio 2013\Projects\Configration UBNT\Configration UBNT\obj\Debug\Configration UBNT.exe
+c:\users\muq\onedrive\documents\visual studio 2013\Projects\Configration UBNT\Configration UBNT\obj\Debug\Configration UBNT.xml
+c:\users\muq\onedrive\documents\visual studio 2013\Projects\Configration UBNT\Configration UBNT\obj\Debug\Configration UBNT.pdb
+D:\Projects\Visual Studio 2013\Projects\Configration UBNT\Configration UBNT\bin\Debug\Configration UBNT.exe.config
+D:\Projects\Visual Studio 2013\Projects\Configration UBNT\Configration UBNT\bin\Debug\Configration UBNT.exe
+D:\Projects\Visual Studio 2013\Projects\Configration UBNT\Configration UBNT\bin\Debug\Configration UBNT.pdb
+D:\Projects\Visual Studio 2013\Projects\Configration UBNT\Configration UBNT\bin\Debug\Configration UBNT.xml
+D:\Projects\Visual Studio 2013\Projects\Configration UBNT\Configration UBNT\obj\Debug\Configration UBNT.vbprojAssemblyReference.cache
+D:\Projects\Visual Studio 2013\Projects\Configration UBNT\Configration UBNT\obj\Debug\Configration_UBNT.Main.resources
+D:\Projects\Visual Studio 2013\Projects\Configration UBNT\Configration UBNT\obj\Debug\Configration_UBNT.Resources.resources
+D:\Projects\Visual Studio 2013\Projects\Configration UBNT\Configration UBNT\obj\Debug\Configration UBNT.vbproj.GenerateResource.cache
+D:\Projects\Visual Studio 2013\Projects\Configration UBNT\Configration UBNT\obj\Debug\Configration UBNT.vbproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio 2013\Projects\Configration UBNT\Configration UBNT\obj\Debug\Configration UBNT.exe
+D:\Projects\Visual Studio 2013\Projects\Configration UBNT\Configration UBNT\obj\Debug\Configration UBNT.xml
+D:\Projects\Visual Studio 2013\Projects\Configration UBNT\Configration UBNT\obj\Debug\Configration UBNT.pdb
